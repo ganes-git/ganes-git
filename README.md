@@ -8,40 +8,18 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class GaneshS:
-    def __init__(self):
-        self.name           = "Ganesh S"
-        self.location       = "Chennai, Tamil Nadu, India 🇮🇳"
-        self.degree         = "B.E. Electronics & Communication Engineering"
-        self.college        = "RMD Engineering College (2025–2029)"
-        self.gpa            = 7.48
+## 👋 About Me
 
-        self.stack = [
-            "C", "C++", "Python", "Java",
-            "ESP32", "STM32", "Arduino", "NodeMCU",
-            "React", "Three.js", "Tailwind CSS",
-            "LoRaWAN", "WSN", "IoT", "VLSI"
-        ]
-
-        self.currently_learning = [
-            "GATE ECE → Signals & Systems, Networks",
-            "Embedded ML → TinyML on ESP32",
-            "WebGL → Three.js / React Three Fiber",
-            "LoRaWAN → Long-range WSN protocols"
-        ]
-
-        self.fun_fact = (
-            "I debug hardware with a multimeter "
-            "and debug code with print statements 😄"
-        )
-
-    def motto(self):
-        return "Build. Present. Iterate. 🚀"
-
-me = GaneshS()
-print(me.motto())
-```
+- 🎓 &nbsp; **B.E. Electronics & Communication Engineering** — RMD Engineering College (2025–2029)
+- 📍 &nbsp; Chennai, Tamil Nadu, India 🇮🇳
+- 📊 &nbsp; Current GPA: **7.48 / 10.0**
+- 🔧 &nbsp; I build with **ESP32, STM32, Arduino, NodeMCU** and code in **C, C++, Python, Java**
+- 🌐 &nbsp; Into **IoT · WSN · Embedded Systems · LoRaWAN · VLSI**
+- 🤖 &nbsp; Also exploring **React · Three.js · WebGL · TinyML**
+- 🌟 &nbsp; **Google Student Ambassador 2026** — driving AI literacy on campus
+- 📄 &nbsp; Presented research papers at **IIT Madras, CIT Chennai & SIMATS Engineering**
+- ⚡ &nbsp; Fun fact: I debug hardware with a multimeter and debug code with print statements 😄
+- 💬 &nbsp; Motto: **"Build. Present. Iterate. 🚀"**
 
 <br clear="right"/>
 
