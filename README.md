@@ -12,7 +12,7 @@
 
 - 🎓 &nbsp; **B.E. Electronics & Communication Engineering** — RMD Engineering College (2025–2029)
 - 📍 &nbsp; Chennai, Tamil Nadu, India 🇮🇳
-- 📊 &nbsp; Current GPA: **7.48 / 10.0**
+- 📊 &nbsp; Current GPA: **8.10 / 10.0**
 - 🔧 &nbsp; I build with **ESP32, STM32, Arduino, NodeMCU** and code in **C, C++, Python, Java**
 - 🌐 &nbsp; Into **IoT · WSN · Embedded Systems · LoRaWAN · VLSI**
 - 🤖 &nbsp; Also exploring **React · Three.js · WebGL · TinyML**
